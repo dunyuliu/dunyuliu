@@ -12,7 +12,7 @@ Other research lines involve:
   * Geodynamics:
     * A toolset to constrain viscous anisotropy [(_Liu et al._, 2024, GJI)](https://doi.org/10.1093/gji/ggae296)
     * Forward/Inverse framework [(_Puel et al._, 2022, GJI)](https://doi.org/10.1093/gji/ggac050), [(_Puel et al._, 2024, Sci Adv)](https://www.science.org/doi/full/10.1126/sciadv.adl4264)
-  * InSAR processing with [__GMTSAR__](https://github.com/gmtsar/gmtsar); InSAR + physics_based modeling integration [(_Xu et al._, 2023, GRL)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL101692)
+  * InSAR processing software development with [__GMTSAR__](https://github.com/gmtsar/gmtsar); InSAR + physics_based modeling integration [(_Xu et al._, 2023, GRL)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL101692)
   * Planetary modeling: 
   * Climate modeling:
 
