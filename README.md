@@ -1,6 +1,16 @@
-- 👋 Hi, I’m Dunyu Liu.
-- 👀 I work on integrating earthquake modeling with observations to understand the complexity behind earthquakes. Primarily I work with high-performance computing and I develop numerical tools, which you can find in my repos. Currently, I work on earthquake ground motion, mechanical viscous anisotropy, climate modeling, and Mercury interior.
-- 📫 Please reach out to me via dliu@ig.utexas.edu or [twitter](https://twitter.com/DunyuLiu).
+👋 I’m Dunyu Liu, the computational geoscientist at Institute for Geophysics at the University of Texas at Austin. Welcome to my GitHub space, dedicated to reproducible, reliable, efficient and parallel open-source scientific software in geoscience and beyond.
+
+A major line of my research is physics-based earthquake source, cycle, and ground motion modeling with parallel finite-element method, and their integration with various observations such as paleoseismic and ground motion data. 
+
+Other research lines involve:
+  * A toolset to constrain viscous anisotropy:
+  * InSAR processing: 
+  * Planetary modeling: 
+  * Climate modeling:
+ 
+Software development is driven by scientific questions. 
+
+📫 Please reach out to me via dliu@ig.utexas.edu or [LinkedIn](https://www.linkedin.com/in/dunyu-liu/) or [X](https://twitter.com/DunyuLiu).
 
 <!---
 dunyuliu/dunyuliu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
