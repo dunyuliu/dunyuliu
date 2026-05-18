@@ -1,4 +1,4 @@
-👋 I’m Dunyu Liu, senior computational geoscientist at Institute for Geophysics at the University of Texas at Austin. Welcome to my GitHub space, dedicated to user-friendly, reproducible, reliable, and parallel open-source scientific software in geoscience and beyond.
+👋 I’m Dunyu Liu, senior computational geoscientist at Institute for Geophysics at the University of Texas at Austin. My focus is **AI for physical system simulation** — building user-friendly, reproducible, reliable, and parallel open-source scientific software in geoscience and beyond.
 
 A major line of my research is physics-based earthquake source, cycle, and ground motion modeling with parallel finite-element method, and their integration with various observations such as paleoseismic and ground motion data. 
 
