@@ -18,7 +18,7 @@ Other research lines involve:
     * Development of [__GMTSAR__](https://github.com/gmtsar/gmtsar). Latest NSF CSSI poster is [HERE](https://figshare.com/articles/poster/Monitoring_earth_surface_deformation_with_the_next_generation_of_InSAR_satellites_GMTSAR/26767699/1?file=48629041). 
     * InSAR + finite-element model integration for compliant fault structure [(_Xu et al._, 2023, GRL)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL101692).
   * Planetary modeling:
-    * Planetary interior and evolution with [__PIE__](https://github.com/dunyuliu/PIE) (_Dunnigan, Liu et al._, 2025, LPI Contributions, 3090, 2145).
+    * Planetary interior and evolution with [__PIE__](https://github.com/dunyuliu/PIE) [(_Dunnigan, Liu et al._, 2026, JGR Planets)](https://doi.org/10.1029/2025JE009368).
   * Climate modeling with [__CESM__](https://www.cesm.ucar.edu/): [_Thirumalai et al._ (2024, Nature)](https://doi.org/10.1038/s41586-024-07984-y), [_White et al._ (2024, JC)](https://doi.org/10.1175/JCLI-D-23-0755.1)
  
 Philosophy of software development:
