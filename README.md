@@ -1,4 +1,4 @@
-🌐 **Website:** [dunyuliu.github.io](https://dunyuliu.github.io/) · 📄 **CV:** [PDF](https://dunyuliu.github.io/cv/cv.pdf) · [Google Scholar](https://scholar.google.com/citations?user=PxKGx3YAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-6740-3080)
+🌐 **Website:** [dunyuliu.github.io/dunyuliu](https://dunyuliu.github.io/dunyuliu/) · 📄 **CV:** [PDF](https://dunyuliu.github.io/dunyuliu/cv/cv.pdf) · [Google Scholar](https://scholar.google.com/citations?user=PxKGx3YAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-6740-3080)
 
 👋 I’m Dunyu Liu, senior computational geoscientist at Institute for Geophysics at the University of Texas at Austin. My focus is **AI for physical system simulation** — building user-friendly, reproducible, reliable, and parallel open-source scientific software in geoscience and beyond.
 
