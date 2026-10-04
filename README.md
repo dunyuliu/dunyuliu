@@ -68,23 +68,52 @@ CESM simulations of past and future El Niño behavior and aerosol–climate inte
 
 #### Peer-reviewed articles
 
+**2026**
+
 1. Dunnigan, A.H., **Liu, D.**, Steinbrügge, G.B., Rivoldini, A., Dumberry, M., Cao, H. & Soderlund, K.M. (2026). Interior Models of Mercury and Conditions for Iron Snow Formation in a Fe‐S‐Si Core. *Journal of Geophysical Research: Planets*, 131, e2025JE009368. [doi:10.1029/2025JE009368](https://doi.org/10.1029/2025JE009368)
+
+**2025**
+
 1. **Liu, D.** & Becker, T.W. (2025). Earthquake Rupture Dynamics From Graph Neural Networks. *Journal of Geophysical Research: Solid Earth*, 130, e2025JB031981. [doi:10.1029/2025JB031981](https://doi.org/10.1029/2025JB031981)
 1. White, K., **Liu, D.** & Persad, G. (2025). Absence of Aerosol Indirect Effect Dependence on Background Climate State in NCAR CESM2. *Journal of Climate*, 38, 147-163. [doi:10.1175/jcli-d-23-0755.1](https://doi.org/10.1175/jcli-d-23-0755.1)
+
+**2024**
+
 1. Puel, S., Becker, T.W., Villa, U., Ghattas, O. & **Liu, D.** (2024). Volcanic arc rigidity variations illuminated by coseismic deformation of the 2011 Tohoku-oki M9. *Science Advances*, 10, eadl4264. [doi:10.1126/sciadv.adl4264](https://doi.org/10.1126/sciadv.adl4264)
 1. Thirumalai, K., DiNezio, P.N., Partin, J.W., **Liu, D.**, Costa, K. & Jacobel, A. (2024). Future increase in extreme El Niño supported by past glacial changes. *Nature*, 634, 374-380. [doi:10.1038/s41586-024-07984-y](https://doi.org/10.1038/s41586-024-07984-y)
 1. **Liu, D.**, Puel, S., Becker, T.W. & Moresi, L. (2024). Analytical and numerical models of viscous anisotropy: a toolset to constrain the role of mechanical anisotropy for regional tectonics and fault loading. *Geophysical Journal International*, 239, 950-963. [doi:10.1093/gji/ggae296](https://doi.org/10.1093/gji/ggae296)
+
+**2023**
+
 1. Xu, X., **Liu, D.** & Lavier, L. (2023). Constraining Fault Damage Zone Properties From Geodesy: A Case Study Near the 2019 Ridgecrest Earthquake Sequence. *Geophysical Research Letters*, 50, e2022GL101692. [doi:10.1029/2022GL101692](https://doi.org/10.1029/2022GL101692)
 1. Puel, S., Becker, T.W., Villa, U., Ghattas, O. & **Liu, D.** (2023). An adjoint-based optimization method for jointly inverting heterogeneous material properties and fault slip from earthquake surface deformation data. *Geophysical Journal International*, 236, 778-797. [doi:10.1093/gji/ggad442](https://doi.org/10.1093/gji/ggad442)
+
+**2022**
+
 1. **Liu, D.**, Duan, B., Scharer, K. & Yule, D. (2022). Observation‐Constrained Multicycle Dynamic Models of the Southern San Andreas and the Northern San Jacinto Faults: Addressing Complexity in Paleoearthquake Extent and Recurrence With Realistic 2D Fault Geometry. *Journal of Geophysical Research: Solid Earth*, 127, e2021JB023420. [doi:10.1029/2021JB023420](https://doi.org/10.1029/2021JB023420)
 1. Puel, S., Khattatov, E., Villa, U., **Liu, D.**, Ghattas, O. & Becker, T.W. (2022). A mixed, unified forward/inverse framework for earthquake problems: fault implementation and coseismic slip estimate. *Geophysical Journal International*, 230, 733-758. [doi:10.1093/gji/ggac050](https://doi.org/10.1093/gji/ggac050)
 1. Jiang, J., Erickson, B.A., Lambert, V.R., Ampuero, J., Ando, R., Barbot, S.D., Cattania, C., Zilio, L.D., … **Liu, D.**, … & van Dinther, Y. (2022). Community‐Driven Code Comparisons for Three‐Dimensional Dynamic Modeling of Sequences of Earthquakes and Aseismic Slip. *Journal of Geophysical Research: Solid Earth*, 127, e2021JB023519. [doi:10.1029/2021JB023519](https://doi.org/10.1029/2021JB023519)
+
+**2021**
+
 1. **Liu, D.**, Duan, B., Prush, V.B., Oskin, M.E. & Liu-Zeng, J. (2021). Observation-constrained multicycle dynamic models of the Pingding Shan earthquake gate along the Altyn Tagh Fault. *Tectonophysics*, 814, 228948. [doi:10.1016/j.tecto.2021.228948](https://doi.org/10.1016/j.tecto.2021.228948)
+
+**2020**
+
 1. Luo, B., Duan, B. & **Liu, D.** (2020). 3D Finite-Element Modeling of Dynamic Rupture and Aseismic Slip over Earthquake Cycles on Geometrically Complex Faults. *Bulletin of the Seismological Society of America*, 110, 2619-2637. [doi:10.1785/0120200047](https://doi.org/10.1785/0120200047)
+
+**2019**
+
 1. **Liu, D.**, Duan, B. & Luo, B. (2019). EQsimu: a 3-D finite element dynamic earthquake simulator for multicycle dynamics of geometrically complex faults governed by rate- and state-dependent friction. *Geophysical Journal International*, 220, 598-609. [doi:10.1093/gji/ggz475](https://doi.org/10.1093/gji/ggz475)
+
+**2018**
+
 1. Zhong, S., Wan, Z., Duan, B., **Liu, D.** & Luo, B. (2018). Do earthquakes trigger mud volcanoes? A case study from the southern margin of the Junggar Basin, NW China. *Geological Journal*, 54, 1223-1237. [doi:10.1002/gj.3222](https://doi.org/10.1002/gj.3222)
 1. Harris, R.A., Barall, M., Aagaard, B., Ma, S., Roten, D., Olsen, K., Duan, B., **Liu, D.**, … & Dalguer, L. (2018). A Suite of Exercises for Verifying Dynamic Earthquake Rupture Codes. *Seismological Research Letters*, 89, 1146-1162. [doi:10.1785/0220170222](https://doi.org/10.1785/0220170222)
 1. **Liu, D.** & Duan, B. (2018). Scenario Earthquake and Ground‐Motion Simulations in North China: Effects of Heterogeneous Fault Stress and 3D Basin Structure. *Bulletin of the Seismological Society of America*, 108, 2148-2169. [doi:10.1785/0120170374](https://doi.org/10.1785/0120170374)
+
+**2017**
+
 1. Duan, B., **Liu, D.** & Yin, A. (2017). Seismic shaking in the North China Basin expected from ruptures of a possible seismic gap. *Geophysical Research Letters*, 44, 4855-4862. [doi:10.1002/2017gl072638](https://doi.org/10.1002/2017gl072638)
 
 #### Reports, posters and data
