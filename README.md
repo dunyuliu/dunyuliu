@@ -1,3 +1,5 @@
+🌐 **Website:** [dunyuliu.github.io](https://dunyuliu.github.io/) · 📄 **CV:** [PDF](https://dunyuliu.github.io/cv/cv.pdf) · [Google Scholar](https://scholar.google.com/citations?user=PxKGx3YAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-6740-3080)
+
 👋 I’m Dunyu Liu, senior computational geoscientist at Institute for Geophysics at the University of Texas at Austin. My focus is **AI for physical system simulation** — building user-friendly, reproducible, reliable, and parallel open-source scientific software in geoscience and beyond.
 
 A major line of my research is physics-based earthquake source, cycle, and ground motion modeling with parallel finite-element method, and their integration with various observations such as paleoseismic and ground motion data. 
@@ -19,7 +21,7 @@ Other research lines involve:
     * InSAR + finite-element model integration for compliant fault structure [(_Xu et al._, 2023, GRL)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL101692).
   * Planetary modeling:
     * Planetary interior and evolution with [__PIE__](https://github.com/dunyuliu/PIE) [(_Dunnigan, Liu et al._, 2026, JGR Planets)](https://doi.org/10.1029/2025JE009368).
-  * Climate modeling with [__CESM__](https://www.cesm.ucar.edu/): [_Thirumalai et al._ (2024, Nature)](https://doi.org/10.1038/s41586-024-07984-y), [_White et al._ (2024, JC)](https://doi.org/10.1175/JCLI-D-23-0755.1)
+  * Climate modeling with [__CESM__](https://www.cesm.ucar.edu/): [_Thirumalai et al._ (2024, Nature)](https://doi.org/10.1038/s41586-024-07984-y), [_White et al._ (2025, J. Climate)](https://doi.org/10.1175/JCLI-D-23-0755.1)
  
 Philosophy of software development:
   * Software development should be driven by scientific questions.
@@ -28,7 +30,7 @@ Philosophy of software development:
 
 Book recommendations: 
   * ___```Clean Code: A Handbook of Agile Software Craftsmanship```___ by Robert C. Martin ([Amazon Link](https://a.co/d/7Vgw1Xg));
-  * ___```Refactoring: Improving the Design of Existing Code (2nd Ed.)```___ by Martin Fowlor ([Amazon Link](https://a.co/d/ghYQ5Bz));
+  * ___```Refactoring: Improving the Design of Existing Code (2nd Ed.)```___ by Martin Fowler ([Amazon Link](https://a.co/d/ghYQ5Bz));
   * ___```Poor Charlie's Almanack: The Essential Wit and Wisdom of Charles T. Munger```___ by Charles T. Munger et al. ([Amazon Link](https://a.co/d/4xtPWU0)) for worldly wisdoms and why I pursue this multidisciplinary approach to research. 
     
 📫 Please reach out to me via dliu@ig.utexas.edu or [LinkedIn](https://www.linkedin.com/in/dunyu-liu/) or [X](https://twitter.com/DunyuLiu).
