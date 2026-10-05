@@ -1,0 +1,840 @@
+[
+{
+"doi": "10.1029/2025JE009368",
+"year": 2026,
+"title": "Interior Models of Mercury and Conditions for Iron Snow Formation in a Fe‐S‐Si Core",
+"journal": "Journal of Geophysical Research: Planets",
+"vol": "131",
+"page": "e2025JE009368",
+"authors": [
+[
+"Dunnigan",
+"Abigail H."
+],
+[
+"Liu",
+"Dunyu"
+],
+[
+"Steinbrügge",
+"Gregor B."
+],
+[
+"Rivoldini",
+"Attilio"
+],
+[
+"Dumberry",
+"Mathieu"
+],
+[
+"Cao",
+"Hao"
+],
+[
+"Soderlund",
+"Krista M."
+]
+],
+"kind": "art"
+},
+{
+"doi": "10.1029/2025JB031981",
+"year": 2025,
+"title": "Earthquake Rupture Dynamics From Graph Neural Networks",
+"journal": "Journal of Geophysical Research: Solid Earth",
+"vol": "130",
+"page": "e2025JB031981",
+"authors": [
+[
+"Liu",
+"Dunyu"
+],
+[
+"Becker",
+"Thorsten W."
+]
+],
+"kind": "art"
+},
+{
+"doi": "10.1126/sciadv.adl4264",
+"year": 2024,
+"title": "Volcanic arc rigidity variations illuminated by coseismic deformation of the 2011 Tohoku-oki M9",
+"journal": "Science Advances",
+"vol": "10",
+"page": "eadl4264",
+"authors": [
+[
+"Puel",
+"Simone"
+],
+[
+"Becker",
+"Thorsten W."
+],
+[
+"Villa",
+"Umberto"
+],
+[
+"Ghattas",
+"Omar"
+],
+[
+"Liu",
+"Dunyu"
+]
+],
+"kind": "art"
+},
+{
+"doi": "10.1038/s41586-024-07984-y",
+"year": 2024,
+"title": "Future increase in extreme El Niño supported by past glacial changes",
+"journal": "Nature",
+"vol": "634",
+"page": "374-380",
+"authors": [
+[
+"Thirumalai",
+"Kaustubh"
+],
+[
+"DiNezio",
+"Pedro N."
+],
+[
+"Partin",
+"Judson W."
+],
+[
+"Liu",
+"Dunyu"
+],
+[
+"Costa",
+"Kassandra"
+],
+[
+"Jacobel",
+"Allison"
+]
+],
+"kind": "art"
+},
+{
+"doi": "10.1175/jcli-d-23-0755.1",
+"year": 2025,
+"title": "Absence of Aerosol Indirect Effect Dependence on Background Climate State in NCAR CESM2",
+"journal": "Journal of Climate",
+"vol": "38",
+"page": "147-163",
+"authors": [
+[
+"White",
+"Kayla"
+],
+[
+"Liu",
+"Dunyu"
+],
+[
+"Persad",
+"Geeta"
+]
+],
+"kind": "art"
+},
+{
+"doi": "10.1093/gji/ggae296",
+"year": 2024,
+"title": "Analytical and numerical models of viscous anisotropy: a toolset to constrain the role of mechanical anisotropy for regional tectonics and fault loading",
+"journal": "Geophysical Journal International",
+"vol": "239",
+"page": "950-963",
+"authors": [
+[
+"Liu",
+"Dunyu"
+],
+[
+"Puel",
+"Simone"
+],
+[
+"Becker",
+"Thorsten W"
+],
+[
+"Moresi",
+"Louis"
+]
+],
+"kind": "art"
+},
+{
+"doi": "10.1029/2022GL101692",
+"year": 2023,
+"title": "Constraining Fault Damage Zone Properties From Geodesy: A Case Study Near the 2019 Ridgecrest Earthquake Sequence",
+"journal": "Geophysical Research Letters",
+"vol": "50",
+"page": "e2022GL101692",
+"authors": [
+[
+"Xu",
+"Xiaohua"
+],
+[
+"Liu",
+"Dunyu"
+],
+[
+"Lavier",
+"Luc"
+]
+],
+"kind": "art"
+},
+{
+"doi": "10.1093/gji/ggad442",
+"year": 2023,
+"title": "An adjoint-based optimization method for jointly inverting heterogeneous material properties and fault slip from earthquake surface deformation data",
+"journal": "Geophysical Journal International",
+"vol": "236",
+"page": "778-797",
+"authors": [
+[
+"Puel",
+"S"
+],
+[
+"Becker",
+"T W"
+],
+[
+"Villa",
+"U"
+],
+[
+"Ghattas",
+"O"
+],
+[
+"Liu",
+"D"
+]
+],
+"kind": "art"
+},
+{
+"doi": "10.1029/2021JB023420",
+"year": 2022,
+"title": "Observation‐Constrained Multicycle Dynamic Models of the Southern San Andreas and the Northern San Jacinto Faults: Addressing Complexity in Paleoearthquake Extent and Recurrence With Realistic 2D Fault Geometry",
+"journal": "Journal of Geophysical Research: Solid Earth",
+"vol": "127",
+"page": "e2021JB023420",
+"authors": [
+[
+"Liu",
+"Dunyu"
+],
+[
+"Duan",
+"Benchun"
+],
+[
+"Scharer",
+"Katherine"
+],
+[
+"Yule",
+"Doug"
+]
+],
+"kind": "art"
+},
+{
+"doi": "10.1093/gji/ggac050",
+"year": 2022,
+"title": "A mixed, unified forward/inverse framework for earthquake problems: fault implementation and coseismic slip estimate",
+"journal": "Geophysical Journal International",
+"vol": "230",
+"page": "733-758",
+"authors": [
+[
+"Puel",
+"S"
+],
+[
+"Khattatov",
+"E"
+],
+[
+"Villa",
+"U"
+],
+[
+"Liu",
+"D"
+],
+[
+"Ghattas",
+"O"
+],
+[
+"Becker",
+"T W"
+]
+],
+"kind": "art"
+},
+{
+"doi": "10.1016/j.tecto.2021.228948",
+"year": 2021,
+"title": "Observation-constrained multicycle dynamic models of the Pingding Shan earthquake gate along the Altyn Tagh Fault",
+"journal": "Tectonophysics",
+"vol": "814",
+"page": "228948",
+"authors": [
+[
+"Liu",
+"Dunyu"
+],
+[
+"Duan",
+"Benchun"
+],
+[
+"Prush",
+"Veronica B."
+],
+[
+"Oskin",
+"Michael E."
+],
+[
+"Liu-Zeng",
+"Jing"
+]
+],
+"kind": "art"
+},
+{
+"doi": "10.1093/gji/ggz475",
+"year": 2019,
+"title": "EQsimu: a 3-D finite element dynamic earthquake simulator for multicycle dynamics of geometrically complex faults governed by rate- and state-dependent friction",
+"journal": "Geophysical Journal International",
+"vol": "220",
+"page": "598-609",
+"authors": [
+[
+"Liu",
+"Dunyu"
+],
+[
+"Duan",
+"Benchun"
+],
+[
+"Luo",
+"Bin"
+]
+],
+"kind": "art"
+},
+{
+"doi": "10.1785/0120200047",
+"year": 2020,
+"title": "3D Finite-Element Modeling of Dynamic Rupture and Aseismic Slip over Earthquake Cycles on Geometrically Complex Faults",
+"journal": "Bulletin of the Seismological Society of America",
+"vol": "110",
+"page": "2619-2637",
+"authors": [
+[
+"Luo",
+"Bin"
+],
+[
+"Duan",
+"Benchun"
+],
+[
+"Liu",
+"Dunyu"
+]
+],
+"kind": "art"
+},
+{
+"doi": "10.1002/gj.3222",
+"year": 2018,
+"title": "Do earthquakes trigger mud volcanoes? A case study from the southern margin of the Junggar Basin, NW China",
+"journal": "Geological Journal",
+"vol": "54",
+"page": "1223-1237",
+"authors": [
+[
+"Zhong",
+"Siling"
+],
+[
+"Wan",
+"Zhifeng"
+],
+[
+"Duan",
+"Benchun"
+],
+[
+"Liu",
+"Dunyu"
+],
+[
+"Luo",
+"Bin"
+]
+],
+"kind": "art"
+},
+{
+"doi": "10.1785/0220170222",
+"year": 2018,
+"title": "A Suite of Exercises for Verifying Dynamic Earthquake Rupture Codes",
+"journal": "Seismological Research Letters",
+"vol": "89",
+"page": "1146-1162",
+"authors": [
+[
+"Harris",
+"Ruth A."
+],
+[
+"Barall",
+"Michael"
+],
+[
+"Aagaard",
+"Brad"
+],
+[
+"Ma",
+"Shuo"
+],
+[
+"Roten",
+"Daniel"
+],
+[
+"Olsen",
+"Kim"
+],
+[
+"Duan",
+"Benchun"
+],
+[
+"Liu",
+"Dunyu"
+],
+[
+"Luo",
+"Bin"
+],
+[
+"Bai",
+"Kangchen"
+],
+[
+"Ampuero",
+"Jean‐Paul"
+],
+[
+"Kaneko",
+"Yoshihiro"
+],
+[
+"Gabriel",
+"Alice‐Agnes"
+],
+[
+"Duru",
+"Kenneth"
+],
+[
+"Ulrich",
+"Thomas"
+],
+[
+"Wollherr",
+"Stephanie"
+],
+[
+"Shi",
+"Zheqiang"
+],
+[
+"Dunham",
+"Eric"
+],
+[
+"Bydlon",
+"Sam"
+],
+[
+"Zhang",
+"Zhenguo"
+],
+[
+"Chen",
+"Xiaofei"
+],
+[
+"Somala",
+"Surendra Nadh"
+],
+[
+"Pelties",
+"Christian"
+],
+[
+"Tago",
+"Josué"
+],
+[
+"Cruz‐Atienza",
+"Victor Manuel"
+],
+[
+"Kozdon",
+"Jeremy"
+],
+[
+"Daub",
+"Eric"
+],
+[
+"Aslam",
+"Khurram"
+],
+[
+"Kase",
+"Yuko"
+],
+[
+"Withers",
+"Kyle"
+],
+[
+"Dalguer",
+"Luis"
+]
+],
+"kind": "art"
+},
+{
+"doi": "10.1785/0120170374",
+"year": 2018,
+"title": "Scenario Earthquake and Ground‐Motion Simulations in North China: Effects of Heterogeneous Fault Stress and 3D Basin Structure",
+"journal": "Bulletin of the Seismological Society of America",
+"vol": "108",
+"page": "2148-2169",
+"authors": [
+[
+"Liu",
+"Dunyu"
+],
+[
+"Duan",
+"Benchun"
+]
+],
+"kind": "art"
+},
+{
+"doi": "10.1002/2017gl072638",
+"year": 2017,
+"title": "Seismic shaking in the North China Basin expected from ruptures of a possible seismic gap",
+"journal": "Geophysical Research Letters",
+"vol": "44",
+"page": "4855-4862",
+"authors": [
+[
+"Duan",
+"Benchun"
+],
+[
+"Liu",
+"Dunyu"
+],
+[
+"Yin",
+"An"
+]
+],
+"kind": "art"
+},
+{
+"doi": "10.1029/2021JB023519",
+"year": 2022,
+"title": "Community‐Driven Code Comparisons for Three‐Dimensional Dynamic Modeling of Sequences of Earthquakes and Aseismic Slip",
+"journal": "Journal of Geophysical Research: Solid Earth",
+"vol": "127",
+"page": "e2021JB023519",
+"authors": [
+[
+"Jiang",
+"Junle"
+],
+[
+"Erickson",
+"Brittany A."
+],
+[
+"Lambert",
+"Valère R."
+],
+[
+"Ampuero",
+"Jean‐Paul"
+],
+[
+"Ando",
+"Ryosuke"
+],
+[
+"Barbot",
+"Sylvain D."
+],
+[
+"Cattania",
+"Camilla"
+],
+[
+"Zilio",
+"Luca Dal"
+],
+[
+"Duan",
+"Benchun"
+],
+[
+"Dunham",
+"Eric M."
+],
+[
+"Gabriel",
+"Alice‐Agnes"
+],
+[
+"Lapusta",
+"Nadia"
+],
+[
+"Li",
+"Duo"
+],
+[
+"Li",
+"Meng"
+],
+[
+"Liu",
+"Dunyu"
+],
+[
+"Liu",
+"Yajing"
+],
+[
+"Ozawa",
+"So"
+],
+[
+"Pranger",
+"Casper"
+],
+[
+"van Dinther",
+"Ylona"
+]
+],
+"kind": "art"
+},
+{
+"doi": "10.31223/X5R50Z",
+"year": 2026,
+"title": "Rare deglacial-aged corals point to weaker El Niño in a colder world",
+"journal": "",
+"vol": "",
+"page": "",
+"authors": [
+[
+"Domeyko",
+"Robert"
+],
+[
+"Partin",
+"Judson"
+],
+[
+"Okumura",
+"Yuko"
+],
+[
+"Thirumalai",
+"Kaustubh"
+],
+[
+"DiNezio",
+"Pedro"
+],
+[
+"Lawman",
+"Allison"
+],
+[
+"Taylor",
+"Frederick"
+],
+[
+"Liu",
+"Dunyu"
+],
+[
+"Vetter",
+"Lael"
+],
+[
+"Maupin",
+"Christopher"
+],
+[
+"Garaebiti",
+"Esline"
+],
+[
+"Kalo",
+"Abel"
+],
+[
+"Kotra",
+"Krisna"
+],
+[
+"Zuraw",
+"Lisa"
+],
+[
+"Hu",
+"Hsun-Ming"
+],
+[
+"Inoue",
+"Mayuri"
+],
+[
+"Edwards",
+"Larry"
+],
+[
+"Shen",
+"Chuan-Chou"
+]
+],
+"kind": "pre"
+},
+{
+"doi": "10.31223/X5D20T",
+"year": 2026,
+"title": "Effects of loading schemes in volumetric simulations of sequences of earthquakes and aseismic slip (SEAS) in subduction zones",
+"journal": "",
+"vol": "",
+"page": "",
+"authors": [
+[
+"Yun",
+"Jeena"
+],
+[
+"Fialko",
+"Yuri"
+],
+[
+"May",
+"Dave"
+],
+[
+"Gabriel",
+"Alice-Agnes"
+],
+[
+"Williams",
+"Charles"
+],
+[
+"Liu",
+"Dunyu"
+]
+],
+"kind": "pre"
+},
+{
+"doi": "10.22541/essoar.15005894/v1",
+"year": 2026,
+"title": "The Role of Elastic Heterogeneity for Inferring Seismic-Cycle Deformation at the Nicoya Peninsula, Costa Rica",
+"journal": "",
+"vol": "",
+"page": "",
+"authors": [
+[
+"Song",
+"Chao"
+],
+[
+"Puel",
+"Simone"
+],
+[
+"Liu",
+"Dunyu"
+],
+[
+"Wallace",
+"Laura"
+],
+[
+"Becker",
+"Thorsten Wolfgang"
+]
+],
+"kind": "pre"
+},
+{
+"doi": "10.21203/rs.3.rs-10910110/v1",
+"year": 2026,
+"title": "Nonlinearly Coupled Permafrost Dynamics From Graph Neural Networks",
+"journal": "Research Square",
+"vol": "",
+"page": "",
+"authors": [
+[
+"Liu",
+"Dunyu"
+],
+[
+"You",
+"Kehua"
+],
+[
+"Ren",
+"Pengli"
+],
+[
+"Tang",
+"Hewei"
+]
+],
+"kind": "pre"
+}
+]
